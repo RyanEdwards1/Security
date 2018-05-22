@@ -17,6 +17,23 @@ In Reboot games there are 15 employees. One main founder or CEO and then the oth
 
 ### Hardware/software used:
 
+The hardware and software that is used within Reboot Games to keep are business safe and secure. We also have the most update hardware and software to keep up with other companies to stay competitive for work and clients. One example that we have is the college has security barriers so only students with a card can pass though. This stops unauthorised access to the college happening. If they were to somehow get past that then the room we are in again has a card id lock which only Reboot Games members can get into. The college also has a lot of software which maintains and protects the students such as anti-virus and firewall. 
+
 ### Nature of work:
 
 ## Risks to reboot games - 
+
+* Physical
+* Data
+* Social Engineering     
+
+### Physical
+
+
+
+### Data
+
+
+
+
+### Social Engineering
