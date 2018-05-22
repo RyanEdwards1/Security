@@ -51,9 +51,6 @@ Viruses are files that can made so that they are very dangerous to a computer sy
 
 Internal leaks are the process of an employee within a company that may hold information or have access to information that could be vital for another company exposes the information and leaks it to the public. Sometimes this can be accidental as there are many ways for information to be leaked. For example, a data hack from an anonymous location who found his way in to the company. But sometimes it can be employees. Most companies try to solve this problem by having employees sign a non-disclosure form when joining the business, this is a form that is used to keep the information of a company internal and not to be shared, by signing these forms the employee cannot leak any information from the company that isn't public knowledge, if there was a known leak in the company, the company could sue that person for breaching the form.
 
-### Data Theft
-
-
 ### Phising 
 
 
