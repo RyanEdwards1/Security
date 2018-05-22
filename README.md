@@ -13,7 +13,6 @@ A security policy is a document that a company writes to outline how they protec
 In Reboot games there are 15 employees. One main founder or CEO and then the other 14 employees whose role is to work on given projects and jobs which is given to them by the CEO.
 
 ### Structure
-
 ![rrf](https://user-images.githubusercontent.com/31927415/40374020-1b62b3e2-5de0-11e8-9b3b-d471f308e226.JPG)
 
 ### Hardware/software used
