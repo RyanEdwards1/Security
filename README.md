@@ -14,7 +14,7 @@ In Reboot games there are 15 employees. One main founder or CEO and then the oth
 
 ### Structure
 
-![rrf](https://user-images.githubusercontent.com/31927415/40373954-f0f2a32e-5ddf-11e8-99a8-c19a0e10c709.JPG)
+![rrf](https://user-images.githubusercontent.com/31927415/40374020-1b62b3e2-5de0-11e8-9b3b-d471f308e226.JPG)
 
 ### Hardware/software used
 
