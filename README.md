@@ -41,7 +41,43 @@ The second main risk for Reboot Games is about the data. The reason behind this 
 
 The third main risk for Reboot Games is Social engineering. The reason for this if someone within Reboot Games is selling private data to a rival company for self-gain or if a employee was manipulated into giving up information. Also, if someone is allowing access to private parts of Reboot Games to be accessed by out siders then this can cause data to go missing or companies to get one ups on Reboot Games. This can bring the representation down of the company and cause them to get no work. Also, it will make rival companies harder to reach as they will always be able to see what you are doing and one upping it  
 
-## Threats in an Organisation
+## Differnet Threats an Organisation Faces
+
+### Viruses
+
+Viruses are files that can made so that they are very dangerous to a computer system because of the power of the code that sits inside them and once run it can cause hell for a PC. Some can copy itself to storage devices and corrupt all the data within. The way it does this is by infecting other files in the system and spready hence the name Virus. It spreads and you can’t stop it. Viruses can be detected by antivirus and malware software. This is why they are so important otherwise you have no protection from the files you are downloading. 
+
+### Internal Leaks
+
+
+### Data Theft
+
+
+### Phising 
+
+
+### Power Cut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Security Procedures
 
