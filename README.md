@@ -21,6 +21,8 @@ The hardware and software that is used within Reboot Games to keep are business 
 
 ### Nature of work:
 
+The work that Reboot Games do is mainly project work for clients that approach us with an idea that they want to turn in either a Game, Business Application or pretty much any application. We have done work for ZSL Whipsnade where we had to create an educational game for kids / Young teenagers. We are also linked with driving schools to make a driving simulator on mobile. Recently we were approached by a disaster recovery team to make them a business application as well. We are pretty much an open company with experience in many fields. So, the clients approach us and we see what’s best for them and the company of reboot games 
+
 ## Risks to reboot games - 
 
 * Physical
