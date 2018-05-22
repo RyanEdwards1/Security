@@ -29,11 +29,15 @@ The hardware and software that is used within Reboot Games to keep are business 
 
 ### Physical
 
-
+Firstly physical, the physical risks to reboot games are anything to do with the college itself or are room which we work out of. For example, if we were to experience theft of are PCs or damage to them we could lose vital data. These risks can be prevented employers like us from working and that causes more problems when work for clients is not being completed.    
 
 ### Data
 
-
-
+The second main risk for Reboot Games is about the data. The reason behind this is that if data becomes corrupted, lost or even stolen it could mean projects are lost or personal data could be stolen which could lead to other risks like theft. If data is to become corrupted normally there is no way back to get it therefore company’s save backups. If you are working towards a project deadline and you are closing in on it then your work gets corrupt then it could mean that you miss the deadline and not get payed. 
 
 ### Social Engineering
+
+The third main risk for Reboot Games is Social engineering. The reason for this if someone within Reboot Games is selling private data to a rival company for self-gain or if a employee was manipulated into giving up information. Also, if someone is allowing access to private parts of Reboot Games to be accessed by out siders then this can cause data to go missing or companies to get one ups on Reboot Games. This can bring the representation down of the company and cause them to get no work. Also, it will make rival companies harder to reach as they will always be able to see what you are doing and one upping it  
+
+## Security Procedures
+
