@@ -85,3 +85,6 @@ Another security procedure in Reboot Games is the Security door that we have on 
 ![door](https://user-images.githubusercontent.com/31927415/40424176-a7846e7c-5e8c-11e8-87a5-6d259905f86f.JPG)
 
 This is also another security benefit as if someone was to get hold of a random college card and get through the gates they would still not be able to get into are room as you need a employees of Reboot Games ID card. 
+
+
+## Data Protection
