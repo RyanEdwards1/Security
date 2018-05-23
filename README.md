@@ -53,29 +53,15 @@ Internal leaks are the process of an employee within a company that may hold inf
 
 ### Phising 
 
+Phishing is the act when someone anonymous is sending you fake emails or messages that are trying to trick you into believing they are real so you either download something or enter your details to them. This is one of the most common ways hackers will try to get your details online as they can make it look so legit that it has come from the real company but when you look deeper normally into their email name you can see if it is real or fake  
 
 ### Power Cut
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Power cut
+Power cuts can be very unpredictable and can happen at any time. There are many different causes of a power cut for example. Weather, electrical trip or someone shutting it down. The problem with power cuts is that they can’t not be predicted so they are hard to reduce the risk. The only thing companies do is keep regular saves of work and data. Sometimes companies have backup generators but these take time to kick in and only last a certain amount of time. 
 
 ## Security Procedures
+
+
+
 
