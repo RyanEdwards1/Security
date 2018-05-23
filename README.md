@@ -101,14 +101,31 @@ Adding a DMZ to Reboot Games could be extremely helpful to us and other companie
 
 ### Static IP
 
-
+IP is a permanent number given to a computer or any device that connects to the internet. It is assigned to the device by an internet service provider. It works like a house number and street name as it is used to locate different networks. One problem with if people find out your PCs IP is it is like getting someone’s address. You can see where they are and people can have sent stuff directly to your PC. The IP is the address of the network, it is vital for networks to communicate with each other on the internet. The difference between static IP and a network IP is that a Static IP will always stay with the device it is assigned to. But a IP on a network will change with the network. Having a static IP address means that security measures can be added to that specific IP address which allows for a lot more configuration and security. 
 
 ### NAT
 
-
+A Network Address Translation is a method of giving a device within a private network a public address. The public address will be correctly configured to add a layer of security because of the new IP Address the internal IP is hidden and whenever the network is accessed it will accessed with the public IP instead of the private one. This adds more security to the IP. Attacks that target the IP address will target the public instead of private IP  
 
 ## Impact Of Incorrect Configuration Of Firewall Policies And Third Party VPNs
 
+### VPN
+
+Many people and companies use VPNs these days to stay safe online. VPN involves giving you a public IP Address to use when using a private network. So, it keeps your real location and data safe. VPNs are used to allow safe transfer of data online usually when data is sent the packet would travel though public domains to be successfully transferred. But when using a VPN, it is a private connection that involves two IPs connecting with each other privately this means that when the two systems want to transfer files or data to each other, they can go through a private network rather than risking putting it on a public domain in which it could be seen and tracked. All companies want is to be able to have as much security for their data when it is in all stages like. Storage, being worked on and when it is sent / uploaded and this is when VPNs come in as it adds a false IP to your PC so if you get phished into connecting to a harmful network they will only get the VPN IP.
+
+There are some draw backs to using a VPN since it is a private network. Sometimes you will have to pay to use someone’s VPN. Also, whoever owns the VPN can see what is transferred so this can be a way that data is leaked. Another drawback of VPN is that it uses IPs that they may have used before when some else uses their VPN so someone may have done something to the IP and now it goes to you PC and if they do something it is now linked to your PC. 
+
+### Firewall
+
+A firewall is a piece of software that decides what data / traffic is allowed in and out of your PC. You can strengthen and reduce the rules in the firewall that makes the decision on if a packet of data is aloud though. There are two routes for data when it reaches the fire wall. Either it allows it though to continue to its destination or it gets blocked and sent back to where it came from with a message saying why it was not allowed though. 
+
+If a Firewall is incorrectly set up then it can open the doors on your PC to lots of risks. For example, if you are using a third-party VPN their servers ae usually public to anyone who signs in to the service. And if someone was to infect all the users and you have no firewall then your PC would get filled up with harmful virus and other dangerous malware.  
+
+## Risk Assessment
+
+
 ## Disaster Recovery Plan
+
+
 
 
