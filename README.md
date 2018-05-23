@@ -123,6 +123,11 @@ If a Firewall is incorrectly set up then it can open the doors on your PC to lot
 
 ## Risk Assessment
 
+| Risk | Explanation | Danger | Prevention |
+| ---- | -----------  | ------------------ | -------- |
+| Internal leaks  | Information About The Company Leaked From Within | Medium | Find Out Who Is The Leak
+| Power cut  | All Power To The Building Goes Out| Medium | Save Back Ups 24/7, Tranfer Back Ups To Servers |
+| Theft |Someone Breaking In And Stealing Equipment | High | Making Sure All Doors Are Locked And Alarms Are Set |
 
 ## Disaster Recovery Plan
 
