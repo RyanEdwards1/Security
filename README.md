@@ -97,7 +97,7 @@ This is also another security benefit as if someone was to get hold of a random 
 
 ### NAT
 
-## Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
+## Impact Of Incorrect Configuration Of Firewall Policies And Third Party VPNs
 
 ## Disaster Recovery Plan
 
