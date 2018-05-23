@@ -89,13 +89,21 @@ This is also another security benefit as if someone was to get hold of a random 
 
 ## Data Protection
 
+Data protection is the rule that user’s data online in the compony of Reboot Games must be protected and cannot be used or gathered without the company or user’s knowledge. The data protection act prevents s the misuse of customers data and prevents business and organisations from using their data without the persons permission. An update has been made to the data protection act in 2017 which allows any user to back out of an agreement at any time and for their data to be deleted off their databases as a part of the new agreement. Every company has to agree with terms also if they do not they can face a big fine and lose a lot of reputation for their company. When Reboot Games is working on a project or handling client’s data it must be keep safe inside the business and not used for anything other then what you agreed with the client. 
+
 ## Network Security
 
 ### DMZ
 
+
+
 ### Static IP
 
+
+
 ### NAT
+
+
 
 ## Impact Of Incorrect Configuration Of Firewall Policies And Third Party VPNs
 
