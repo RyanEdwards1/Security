@@ -139,7 +139,7 @@ When companies are dealing with risks within their business. There are moments i
 
 The recovery process is where a business will look the different pieces of work that they have done and prioritise them depending on their importance to the company. The more important jobs of the business will be given more protection as if they are lost then it would be harder to recover the work back. This step within the disaster recovery plan is very important as it means that the major assets are protected and prioritised which in the event of a risk can be very helpful.
 
-Recovery time is the time that a computer system or network is down for after a failure or disaster occurs. The recovery time is a function of the extent to which the interruption disrupts normal operations and the amount of revenue that the company has lost per time unit. It can be measured in Seconds, Minutes , Hours or Days. As well as all of this they will also identify the flaws that made the down time and try to improve it so it doesn’t happen again. 
+Recovery time is the time that a computer system or network is down for after a failure or disaster occurs. The recovery time is a function of the extent to which the interruption disrupts normal operations and the amount of revenue that the company has lost per time unit. It can be measured in Seconds, Minutes, Hours or Days. As well as all of this they will also identify the flaws that made the down time and try to improve it so it doesn’t happen again. 
 
 
 
