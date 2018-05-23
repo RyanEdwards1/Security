@@ -95,7 +95,9 @@ Data protection is the rule that user’s data online in the compony of Reboot G
 
 ### DMZ
 
+DMZ is a physical or a sub network that contains and exposes organisations external facing services to an untrusted network.it can be used to allow people to access a webpage being hosted on a network. An example of this is an email server can be put in a DMZ to allow different groups to access the servers. This can come from an internal or external source. DMZ also provides an additional layer of security to and organisations LAN. The DMZ functions as a small, isolated network positioned between the Internet and the private network and effective, allows the organization extra time to detect and address breaches before they would further penetrate into the internal networks
 
+Adding a DMZ to Reboot Games could be extremely helpful to us and other companies as the servers will be able to be safely accessed to all sources without putting the LAN in danger from being damaged. This can be very important for a company as it means that their personal server is still disconnected from the server clients are accessing. DMZ adds another layer of security to the business and allows safer server management, as well as the event of an attack can much safer as it will only affect the DMZ and not the LAN.
 
 ### Static IP
 
