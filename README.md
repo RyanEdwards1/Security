@@ -88,3 +88,11 @@ This is also another security benefit as if someone was to get hold of a random 
 
 
 ## Data Protection
+
+## Disaster Recovery Plan
+
+## DMZ
+
+## Static IP
+
+## NAT
